@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/timo/Desktop/DotNetApiTemplate/DotNetApiTemplate.csproj": {}
+    "/Users/timo/Workspace/DotNetApiTemplate/DotNetApiTemplate.csproj": {}
   },
   "projects": {
-    "/Users/timo/Desktop/DotNetApiTemplate/DotNetApiTemplate.csproj": {
+    "/Users/timo/Workspace/DotNetApiTemplate/DotNetApiTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/timo/Desktop/DotNetApiTemplate/DotNetApiTemplate.csproj",
+        "projectUniqueName": "/Users/timo/Workspace/DotNetApiTemplate/DotNetApiTemplate.csproj",
         "projectName": "DotNetApiTemplate",
-        "projectPath": "/Users/timo/Desktop/DotNetApiTemplate/DotNetApiTemplate.csproj",
+        "projectPath": "/Users/timo/Workspace/DotNetApiTemplate/DotNetApiTemplate.csproj",
         "packagesPath": "/Users/timo/.nuget/packages/",
-        "outputPath": "/Users/timo/Desktop/DotNetApiTemplate/obj/",
+        "outputPath": "/Users/timo/Workspace/DotNetApiTemplate/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [

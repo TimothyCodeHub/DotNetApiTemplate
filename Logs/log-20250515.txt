@@ -1,0 +1,8 @@
+2025-05-15 23:47:04.295 +08:00 [INF] Starting DotNetApiTemplate API
+2025-05-15 23:47:04.365 +08:00 [WRN] No XML encryptor configured. Key {36fc9f2a-e1ff-41db-863b-669fab73a5db} may be persisted to storage in unencrypted form.
+2025-05-15 23:48:06.486 +08:00 [INF] Starting DotNetApiTemplate API
+2025-05-15 23:48:28.480 +08:00 [WRN] Failed to determine the https port for redirect.
+2025-05-15 23:48:31.651 +08:00 [WRN] Demo error API called
+2025-05-15 23:49:18.956 +08:00 [INF] GetItems API called with pageIndex 1 and pageSize 10
+2025-05-15 23:49:30.923 +08:00 [WRN] Demo exception API called
+2025-05-15 23:49:56.247 +08:00 [INF] Demo API called
