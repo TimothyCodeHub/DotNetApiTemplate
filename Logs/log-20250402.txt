@@ -1,0 +1,15 @@
+2025-04-02 22:16:12.092 +08:00 [INF] Starting DotNetApiTemplate API
+2025-04-02 22:20:36.747 +08:00 [INF] Starting DotNetApiTemplate API
+2025-04-02 22:21:09.301 +08:00 [WRN] Failed to determine the https port for redirect.
+2025-04-02 22:21:09.328 +08:00 [INF] Demo API called
+2025-04-02 22:21:19.031 +08:00 [WRN] Demo error API called
+2025-04-02 22:21:30.318 +08:00 [WRN] Demo exception API called
+2025-04-02 22:21:47.142 +08:00 [INF] Demo API called
+2025-04-02 22:21:54.151 +08:00 [WRN] Demo error API called
+2025-04-02 22:22:01.696 +08:00 [WRN] Demo exception API called
+2025-04-02 22:22:59.257 +08:00 [INF] GetItems API called with pageIndex 1 and pageSize 10
+2025-04-02 22:25:18.208 +08:00 [INF] Starting DotNetApiTemplate API
+2025-04-02 22:25:24.279 +08:00 [WRN] Failed to determine the https port for redirect.
+2025-04-02 22:25:24.310 +08:00 [INF] Demo API called
+2025-04-02 22:25:37.290 +08:00 [INF] Demo API called
+2025-04-02 22:25:53.822 +08:00 [INF] GetItems API called with pageIndex 2 and pageSize 30
